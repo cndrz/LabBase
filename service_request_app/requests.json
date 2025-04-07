@@ -1,0 +1,13 @@
+[
+    {
+        "id": "6bbbffa4",
+        "name": "Jose Mari Dela Cruz",
+        "department": "UP Manila",
+        "equipment": "Microscope, Weighing Scale",
+        "description": "To Whom It May Concern,\n\nI am writing to formally request both calibration and preventive maintenance services for the UV-Visible Spectrophotometer located in the Analytical Chemistry Laboratory of the Department of Biological Sciences. Over the past few weeks, we have observed noticeable inconsistencies in the absorbance readings of standard samples, especially when measured at wavelengths between 280nm and 400nm. The instrument\u2019s baseline appears to be fluctuating, and there are occasional delays in the initialization process.\n\nFurthermore, it has been nearly 18 months since the unit underwent its last full calibration, which exceeds our department's recommended schedule of annual calibration. We believe this delay may be contributing to the anomalies in the data output. Several practical classes and research experiments rely heavily on this equipment, and accuracy in measurements is absolutely critical. We\u2019ve also noticed that the sample compartment cover is slightly misaligned, which could affect the integrity of light measurements.\n\nIn addition to calibration, we are requesting a thorough preventive maintenance check. This includes optical system cleaning, verification of wavelength accuracy, lamp intensity check, and alignment validation. We would also appreciate if the firmware version could be checked and updated if necessary. Please coordinate with our lab assistant, Mr. Rogelio Martinez, for access and scheduling. Our preferred maintenance window would be between April 8 and April 12, to avoid conflict with ongoing graduate thesis experiments.\n\nYour assistance in this matter is highly appreciated, as it will ensure the reliability and accuracy of all ongoing and future analytical work involving the spectrophotometer.\n\nSincerely,  \nDr. Cassandra Ilano  \nSenior Faculty, Department of Biological Sciences\n",
+        "summary": "",
+        "category": "Preventive Maintenance",
+        "status": "Pending",
+        "timestamp": "2025-04-03T14:18:15.641043"
+    }
+]

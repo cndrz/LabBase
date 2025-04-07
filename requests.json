@@ -1,0 +1,79 @@
+[
+    {
+        "id": "57701af2",
+        "name": "Benedict D. Franco  ",
+        "department": "Department of Chemistry  ",
+        "equipment": "---",
+        "description": "To the Laboratory Services Coordinator,\n\nI am writing to formally request a scheduled preventive maintenance service for the High-Performance Liquid Chromatography (HPLC) system installed in Lab Room 204 of the Chemistry Research Facility. The equipment has been in constant use over the past 14 months for both undergrad and graduate research involving organic compound separation and analysis.\n\nAlthough the instrument is currently operational, we have observed a gradual increase in baseline noise and slight retention time shifts that suggest possible issues with the pump seals and column temperature regulation. Given that this equipment plays a crucial role in sample purity validation, especially for the ongoing pharmaceutical compound synthesis study, we want to proactively prevent any major disruptions by conducting a full preventive check.\n\nWe would like the maintenance to include a full inspection of the solvent delivery system, autosampler calibration, degasser module check, flushing of tubing, and software diagnostics. Please include replacement of worn seals or filters if required. The system was last serviced in January of last year, and our internal SOP mandates annual maintenance for all chromatography systems.\n\nOur ideal schedule for this would be between April 10 to 15, 2025. Kindly coordinate with our laboratory assistant, Ms. Karen Morales, for equipment access and procedure oversight. Also, please notify us in advance if any special tools or consumables are needed during the procedure so we can make arrangements in time.\n\nWe highly appreciate your timely attention to this request, as it will help us ensure both safety and data integrity across our ongoing experiments.\n\nBest regards,  \nEngr. Benedict D. Franco  \nInstrument Specialist, Department of Chemistry  \nbenedict.franco@labchem.edu.ph\n",
+        "summary": "To the Laboratory Services Coordinator,\n\nI am writing to formally request a scheduled preventive maintenance service for the High-Performance Liquid Chromatography (HPLC) system installed in Lab Room 204 of the Chemistry Research Facility. Given that this equipment plays a crucial role in sample purity validation, especially for the ongoing pharmaceutical compound synthesis study, we want to proactively prevent any major disruptions by conducting a full preventive check.",
+        "category": "Preventive Maintenance",
+        "status": "Pending",
+        "timestamp": "2025-04-03T14:22:12.300482"
+    },
+    {
+        "id": "51449848",
+        "name": "Engr. Miguel P. Abad",
+        "department": "Instrument Control Division",
+        "equipment": "Precision Analytical Balance (Model: Sartorius Cubis II)",
+        "description": "To the Laboratory Equipment Services Unit,\n\nI am writing on behalf of the Instrumentation Laboratory to urgently request calibration services for the Precision Analytical Balance (Model: Sartorius Cubis II) located in the Clean Lab Zone 3B. Over the past 48 hours, we have observed significant drift in mass readings, even under stable environmental conditions and with verified calibration weights.\n\nDuring standard gravimetric testing, discrepancies of up to \u00b10.007g were recorded across multiple trials using Class E2 weights. The balance has also begun displaying intermittent \u201cauto-zero error\u201d alerts, which we believe may be due to sensor misalignment or internal hardware fatigue. Considering this instrument is used for trace-level formulation and pharmaceutical compounding, any deviation beyond \u00b10.001g severely impacts the integrity of our results.\n\nWe urgently require a full calibration and functional diagnostic check, preferably within the next 48\u201372 hours, as several ongoing controlled substance trials are dependent on this unit\u2019s performance. The last recorded calibration was 9 months ago, outside of our quarterly compliance standard. Please verify sensor performance, update firmware if applicable, and recalibrate using NIST-traceable standards.\n\nKindly contact our lab supervisor, Dr. Teresa Ramon, at extension 2423 to schedule access. Please treat this request as high priority due to its impact on compliance and audit readiness.\n\nSincerely,  \nEngr. Miguel P. Abad  \nSenior Analytical Specialist  \nInstrument Control Division\n",
+        "summary": "- Name: Engr. Miguel P. Abad\n- Department: Instrument Control Division\n- Equipment: Precision Analytical Balance (Model: Sartorius Cubis II)\n- Request Type: Calibration\n- Urgency: High\n- Preferred Schedule: 9 months ago, quarterly, 2423\n- Reason: To the Laboratory Equipment Services Unit,\n\nI am writing on behalf of the Instrumentation Laboratory to urgently request calibration services for the Precision Analytical Balance (Model: Sartorius Cubis II) located in the Clean Lab Zone 3B. Over the past 48 hours, we have observed significant drift in mass readings, even under stable environmental conditions and with verified calibration weights.\n- Keywords: functional diagnostic check, The last recorded calibration, multiple trials, high priority, standard gravimetric testing",
+        "category": "Calibration",
+        "status": "Pending",
+        "timestamp": "2025-04-03T14:25:02.193493"
+    },
+    {
+        "id": "587a6beb",
+        "name": "Dr. Julianne Mateo",
+        "department": "Department of Physical Chemistry",
+        "equipment": "Fluorescence Spectrometer (PerkinElmer LS 55)",
+        "description": "To the Technical Support Unit,\n\nI hope this message finds you well. I would like to request preventive maintenance for the Fluorescence Spectrometer (Model: PerkinElmer LS 55) located in Instrumentation Lab 2. The instrument is currently functional, but there have been recurring issues during startup, particularly an extended warm-up time and occasional lag in the photomultiplier tube response.\n\nIn addition to these minor performance inconsistencies, our recent internal audit flagged that the system hasn't undergone preventive servicing since late 2023, which is beyond our semi-annual PM schedule. We want to ensure that the instrument maintains its performance reliability before we enter our next round of graduate-level fluorescence lifetime measurements.\n\nWe would appreciate it if your team could inspect and service the following areas: excitation and emission monochromators, xenon lamp output, optical filters, and alignment calibration. If any consumables are nearing the end of their life cycle (e.g., lamp or filters), kindly let us know in advance so we can order replacements. A system health report post-maintenance would also be helpful for our documentation and compliance records.\n\nOur preferred schedule would be between April 10 and April 14, 2025. For access or coordination, please contact Ms. Eliza Reyes, our lab technician.\n\nThank you for your support and timely response.\n\nSincerely,  \nDr. Julianne Mateo  \nLab Manager, Department of Physical Chemistry\n",
+        "summary": "- Name: Dr. Julianne Mateo\n- Department: Department of Physical Chemistry\n- Equipment: Fluorescence Spectrometer (PerkinElmer LS 55)\n- Request Type: Preventive Maintenance\n- Urgency: Normal\n- Preferred Schedule: late 2023, semi-annual, between April 10 and April 14, 2025\n- Reason: The instrument is currently functional, but there have been recurring issues during startup, particularly an extended warm-up time and occasional lag in the photomultiplier tube response. In addition to these minor performance inconsistencies, our recent internal audit flagged that the system hasn't undergone preventive servicing since late 2023, which is beyond our semi-annual PM schedule.\n- Keywords: occasional lag, Physical Chemistry, A system health report, our recent internal audit, our next round",
+        "category": "Preventive Maintenance",
+        "status": "Pending",
+        "timestamp": "2025-04-03T15:15:21.604760"
+    },
+    {
+        "id": "68b00e2d",
+        "name": "Prof. Alden Marasigan  ",
+        "department": "Microbiology Research Lab",
+        "equipment": "Laminar Flow Cabinet (Esco Airstream), Digital Incubator (Memmert IN30)",
+        "description": "To the Laboratory Technical Support Team,\n\nWe are requesting preventive maintenance and performance checks for two essential instruments used in our microbiology lab: the Laminar Flow Cabinet (Esco Airstream) and the Digital Incubator (Memmert IN30). Over the last few weeks, we\u2019ve observed minor airflow inconsistencies within the laminar cabinet, and the incubator has shown temperature fluctuations of \u00b11.8\u00b0C, which could potentially impact bacterial culture reliability.\n\nThe laminar cabinet's pre-filter indicator is also signaling a partial blockage, and the incubator takes longer than usual to reach the target temperature of 37\u00b0C. While these issues have not yet caused any direct failures, we would like to address them before the next research batch cycle begins.\n\nWe are aiming to have the maintenance performed sometime between **April 15 and April 18, 2025**, to minimize disruption to ongoing projects. Please inspect filter integrity, UV sterilizer function, and airflow rate for the cabinet, and calibrate both the thermostat and internal sensor of the incubator.\n\nOur lab assistant, Ms. Krisha Sablay, will be available to assist with unit access and verification logs.\n\nBest regards,  \nProf. Alden Marasigan  \nMicrobiology Research Lab  \nalden.marasigan@biolab.edu.ph\n",
+        "summary": "- Name: Prof. Alden Marasigan  \n- Department: Microbiology Research Lab\n- Equipment: Laminar Flow Cabinet (Esco Airstream), Digital Incubator (Memmert IN30)\n- Category: Calibration\n- Urgency: Normal\n- Schedule: the last few weeks, April 15 and April 18, 2025**\n- Reason: To the Laboratory Technical Support Team,\n\nWe are requesting preventive maintenance and performance checks for two essential instruments used in our microbiology lab: the Laminar Flow Cabinet (Esco Airstream) and the Digital Incubator (Memmert IN30). Over the last few weeks, we\u2019ve observed minor airflow inconsistencies within the laminar cabinet, and the incubator has shown temperature fluctuations of \u00b11.8\u00b0C, which could potentially impact bacterial culture reliability.\n- Keywords: Our lab assistant, bacterial culture reliability, ongoing projects, the last few weeks, the incubator",
+        "category": "Calibration",
+        "status": "Pending",
+        "timestamp": "2025-04-03T15:30:27.930841"
+    },
+    {
+        "id": "996efbfe",
+        "name": "Dr. Eliza Manapat",
+        "department": "Trace Chemical Analysis Laboratory",
+        "equipment": "Analytical Microbalance (Mettler Toledo XPR2U)",
+        "description": "To the Calibration Services Unit,\n\nWe are submitting an urgent request for the calibration of the Analytical Microbalance (Model: Mettler Toledo XPR2U) currently used in our Trace Chemical Analysis Lab. Over the last 3 days, the device has begun showing unstable readings even when operated in controlled environmental conditions. The drift is typically around \u00b10.004 mg, which exceeds our tolerance level for ultra-trace compound measurements.\n\nAdditionally, the balance now takes an unusually long time to auto-zero, and displays the \u201cCheck Level\u201d warning frequently, despite the unit being physically leveled. Given that this balance is critical for the precision dosing component of our polymer purity tests, we consider this a high-priority issue.\n\nWe would appreciate if your team can perform a full sensor recalibration and environmental diagnostics at the earliest possible time. Kindly schedule the service between **April 9 and April 10, 2025**, as we are preparing certified reference samples for an inter-laboratory study starting the following week.\n\nPlease coordinate with our senior lab tech, Mr. Renz Arevalo, for access.\n\nSincerely,  \nDr. Eliza Manapat  \nTrace Chemical Analysis Laboratory\n",
+        "summary": "- Name: Dr. Eliza Manapat\n- Department: Trace Chemical Analysis Laboratory\n- Equipment: Analytical Microbalance (Mettler Toledo XPR2U)\n- Request Type: Preventive Maintenance\n- Urgency: High\n- Preferred Schedule: the last 3 days, April 9 and April 10, 2025**, the following week\n- Reason: To the Calibration Services Unit,\n\nWe are submitting an urgent request for the calibration of the Analytical Microbalance (Model: Mettler Toledo XPR2U) currently used in our Trace Chemical Analysis Lab. Kindly schedule the service between **April 9 and April 10, 2025**, as we are preparing certified reference samples for an inter-laboratory study starting the following week.\n- Keywords: ultra-trace compound measurements, The drift, the earliest possible time, the service, Mettler Toledo XPR2U",
+        "category": "Preventive Maintenance",
+        "status": "Pending",
+        "timestamp": "2025-04-03T15:38:27.222207"
+    },
+    {
+        "id": "fcb92041",
+        "name": "James",
+        "department": "none",
+        "equipment": "none",
+        "description": "Hello,\n\nI\u2019d like to request maintenance for one of our lab machines. It's not working properly and sometimes doesn\u2019t turn on. We\u2019ve been using it regularly for microbial testing, so we\u2019re hoping to get it checked soon. I\u2019m not sure about the model number but it\u2019s the one we use for incubation.\n\nWe need this done sometime next week if possible.\n\nThanks,  \nJames\n",
+        "summary": "- Name: James\n- Department: none\n- Equipment: none\n- Request Type: Preventive Maintenance\n- Urgency: High\n- Preferred Schedule: sometime next week\n- Reason: Hello,\n\nI\u2019d like to request maintenance for one of our lab machines. I\u2019m not sure about the model number but it\u2019s the one we use for incubation.\n- Keywords: our lab machines, the model number, microbial testing, the one",
+        "category": "Preventive Maintenance",
+        "status": "Pending",
+        "timestamp": "2025-04-03T16:14:27.429532"
+    },
+    {
+        "id": "ec380dae",
+        "name": "dadasd",
+        "department": "adad",
+        "equipment": "adasd",
+        "description": "asdadad",
+        "summary": "- Name: dadasd\n- Department: adad\n- Equipment: adasd\n- Request Type: Uncategorized\n- Urgency: Normal\n- Preferred Schedule: Not mentioned\n- Reason: asdadad\n- Keywords: Not detected",
+        "category": "Uncategorized",
+        "status": "Pending",
+        "timestamp": "2025-04-03T17:14:47.640821"
+    }
+]
